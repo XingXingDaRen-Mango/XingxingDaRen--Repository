@@ -1,0 +1,10 @@
+interface:
+  display_name: "口播剪辑"
+  short_description: "口播素材逐段分镜方案、确认后剪辑、双语字幕和科技感品牌包装"
+  brand_color: "#8A74E8"
+  icon_small: "./assets/xingxingdaren-logo.svg"
+  icon_large: "./assets/xingxingdaren-logo.svg"
+  default_prompt: "使用 $koubojianji 先为这组口播素材生成逐时间段分镜方案，等待我确认后再开始剪辑。"
+
+policy:
+  allow_implicit_invocation: true
